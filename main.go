@@ -4,6 +4,6 @@ import (
 	 "fmt"
 )
 func main(){
-Vitalya := "Виталя"
+Vitalya := "Игор надоел"
 fmt.Println(Vitalya,"братаааааан. и уебаен")
 }
