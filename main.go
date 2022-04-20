@@ -5,5 +5,5 @@ import (
 )
 func main(){
 Vitalya := "Виталя"
-fmt.Println(Vitalya,"братаааааан")
+fmt.Println(Vitalya,"братаааааан. и уебаен")
 }
